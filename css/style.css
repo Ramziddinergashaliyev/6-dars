@@ -1,0 +1,204 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.header {
+  width: 1440px;
+  height: 3706px;
+  margin: 0 auto;
+}
+
+.dau {
+  width: 1440px;
+  height: 304px;
+}
+
+.free {
+  width: 1440px;
+  height: 47px;
+  background-color: #B36050;
+}
+.free-text {
+  color: #F1D3B9;
+  padding: 10px 576px 9px;
+  font-size: 17px;
+  color: #F1D3B9;
+  text-align: center;
+  font-family: Roboto;
+}
+
+.shop-card {
+  width: 1440px;
+  height: 304px;
+  background-color: #A9AE8D;
+}
+
+.dae-img {
+  width: 1440px;
+  height: 435px;
+}
+
+.shop-card {
+  text-align: center;
+}
+.shop-card-txt {
+  color: #F6F4EC;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 28.8px;
+  padding: 69px 599px 0px;
+}
+
+.shop-card-text {
+  color: #F6F4EC;
+  font-size: 33px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 64px;
+  padding: 15px 492px 0px;
+}
+.btn {
+  width: 128px;
+  height: 48px;
+  background-color: #B45F4D;
+  border: 1px solid #B45F4D;
+  color: white;
+}
+
+.footer {
+  width: 1440px;
+  height: 835px;
+  background-color: #F6F4EC;
+}
+.Pick-text {
+  color: #B45F4D;
+  text-align: center;
+  padding: 40px;
+  font-size: 23px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 39.2px;
+  text-transform: capitalize;
+}
+
+.card-market {
+  display: flex;
+  width: 1440px;
+  height: 702px;
+  flex-shrink: 0;
+}
+.one {
+  margin: 0 auto;
+  display: flex;
+  padding-top: 50px;
+}
+.card-1 {
+  margin-left: 52px;
+  margin-right: 52px;
+}
+.card-text {
+  width: 382.657px;
+  color: #B45F4D;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  padding-top: 35px;
+}
+.card-text1 {
+  width: 340px;
+  height: 66px;
+  color: #B45F4D;
+  font-size: 16px;
+  padding-top: 23px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.shop-cets {
+  background-color: white;
+  text-align: center;
+}
+.shop-cets-img {
+  width: 1200px;
+  height: 407.547px;
+  padding: 34px 10px 46px;
+}
+
+.meet-dae {
+  width: 1440px;
+  height: 914px;
+  display: flex;
+  background-color: #F1D3B9;
+  padding: 116px 120px;
+}
+.meet-dae-img {
+  width: 500px;
+  height: 750px;
+}
+.meet-right {
+  width: 500px;
+  height: 750px;
+  background-color: white;
+  margin-left: 246px;
+}
+
+.meet-text {
+  width: 466px;
+  color: #B45F4D;
+  font-family: Roboto;
+  font-size: 19px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 30.4px; 
+  padding: 22px 42px 20px;
+}
+.meet-abz {
+  width: 630px;
+  color: #B45F4D;
+  font-family: Roboto;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 7.6px;
+  padding: 134px 182px 41px;
+}
+
+.meet-read {
+  width: 2000px;
+  color: #B45F4D;
+  font-family: Roboto;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 25.6px;
+  padding: 41px 379px 134px 41px;
+}
+
+.follow {
+  width: 1440px;
+  padding: 0px 120px 39.594px 120px;
+  flex-direction: column;
+  align-items: center;
+  gap: 43.156px;
+  background-color: white;
+  display: flex;
+}
+
+.follow-abz {
+  color: #000;
+  text-align: center;
+  font-family: Roboto;
+  font-size: 23px;
+  padding-top: 50px; 
+}
+
+.card-bottom-img {
+  width: 1440px;
+  height: 300px;
+}
